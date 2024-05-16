@@ -1,0 +1,107 @@
+﻿const generatedBibEntries = {
+    "chen2014semantic": {
+        "author": "Chen, Liang-Chieh and Papandreou, George and Kokkinos, Iasonas and Murphy, Kevin and Yuille, Alan L",
+        "journal": "arXiv preprint arXiv:1412.7062",
+        "keywords": "Deep Convolutional Nets, Fully Connected CRFs",
+        "title": "Semantic image segmentation with deep convolutional nets and fully connected crfs",
+        "type": "article",
+        "year": "2014"
+    },
+    "chen2020study": {
+        "author": "Chen, Jingjing and Zhu, Bin and Ngo, Chong-Wah and Chua, Tat-Seng and Jiang, Yu-Gang",
+        "journal": "IEEE Transactions on Image Processing",
+        "keywords": "Multi-Task Learning, Region-Wise Deep Learning,Ingredient Recognition",
+        "pages": "1514--1526",
+        "publisher": "IEEE",
+        "title": "A study of multi-task and region-wise deep learning for food ingredient recognition",
+        "type": "article",
+        "volume": "30",
+        "year": "2020"
+    },
+    "chen2020zero": {
+        "author": "Chen, Jingjing and Pan, Liangming and Wei, Zhipeng and Wang, Xiang and Ngo, Chong-Wah and Chua, Tat-Seng",
+        "booktitle": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "keywords": "Multi-Relational Graph Convolutional Network, Specialized Datasets,Ingredient Recognition",
+        "number": "07",
+        "pages": "10542--10550",
+        "title": "Zero-shot ingredient recognition by multi-relational graph convolutional network",
+        "type": "inproceedings",
+        "volume": "34",
+        "year": "2020"
+    },
+    "lee2019aifood": {
+        "author": "Lee, Gwo Giun and Huang, Chin-Wei and Chen, Jia-Hong and Chen, Shih-Yu and Chen, Hsiu-Ling",
+        "booktitle": "TENCON 2019-2019 IEEE Region 10 Conference (TENCON)",
+        "keywords": "Dataset Development, Image Preprocessing, Large-Scale Datasets,Ingredient Recognition",
+        "organization": "IEEE",
+        "pages": "802--805",
+        "title": "Aifood: a large scale food images dataset for ingredient recognition",
+        "type": "inproceedings",
+        "year": "2019"
+    },
+    "liu2020food": {
+        "author": "Liu, Chengxu and Liang, Yuanzhi and Xue, Yao and Qian, Xueming and Fu, Jianlong",
+        "journal": "IEEE transactions on circuits and Systems for Video Technology",
+        "keywords": "Joint Learning, Fine-Grained Recognition, Attention Mechanisms,Ingredient Recognition",
+        "number": "6",
+        "pages": "2480--2493",
+        "publisher": "IEEE",
+        "title": "Food and ingredient joint learning for fine-grained recognition",
+        "type": "article",
+        "volume": "31",
+        "year": "2020"
+    },
+    "min2023large": {
+        "author": "Min, Weiqing and Wang, Zhiling and Liu, Yuxin and Luo, Mengjiang and Kang, Liping and Wei, Xiaoming and Wei, Xiaolin and Jiang, Shuqiang",
+        "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "keywords": "CNN, Large-Scale Datasets",
+        "publisher": "IEEE",
+        "title": "Large scale visual food recognition",
+        "type": "article",
+        "year": "2023"
+    },
+    "shuang2024foodnet": {
+        "author": "Shuang, Feng and Lu, Zhouxian and Li, Yong and Han, Chao and Gu, Xia and Wei, Shidi",
+        "journal": "Neural Computing and Applications",
+        "keywords": "Multi-Scale Learning, Label Dependency Learning, Attention Mechanisms, Specialized Datasets,Ingredient Recognition,Personalized Recipe Recommendations",
+        "number": "9",
+        "pages": "4485--4501",
+        "publisher": "Springer",
+        "title": "Foodnet: multi-scale and label dependency learning-based multi-task network for food and ingredient recognition",
+        "type": "article",
+        "volume": "36",
+        "year": "2024"
+    },
+    "wu2021large": {
+        "author": "Wu, Xiongwei and Fu, Xin and Liu, Ying and Lim, Ee-Peng and Hoi, Steven CH and Sun, Qianru",
+        "booktitle": "Proceedings of the 29th ACM international conference on multimedia",
+        "keywords": "Food Image Segmentation, Large-Scale Datasets,Ingredient Recognition",
+        "pages": "506--515",
+        "title": "A large-scale benchmark for food image segmentation",
+        "type": "inproceedings",
+        "year": "2021"
+    },
+    "zhang2023deep": {
+        "author": "Zhang, Yudong and Deng, Lijia and Zhu, Hengde and Wang, Wei and Ren, Zeyu and Zhou, Qinghua and Lu, Siyuan and Sun, Shiting and Zhu, Ziquan and Gorriz, Juan Manuel and others",
+        "journal": "Information Fusion",
+        "keywords": "Deep Learning,Food Image Segmentation,Ingredient Recognition\t",
+        "pages": "101859",
+        "publisher": "Elsevier",
+        "title": "Deep learning in food category recognition",
+        "type": "article",
+        "volume": "98",
+        "year": "2023"
+    },
+    "zhu2023new": {
+        "author": "Zhu, Ziyi and Dai, Ying",
+        "journal": "Journal of Imaging",
+        "keywords": "CNN,Food Image Segmentation, ingredient Recognition,Specialized Datasets",
+        "number": "10",
+        "pages": "205",
+        "publisher": "MDPI",
+        "title": "A New CNN-Based Single-Ingredient Classification Model and Its Application in Food Image Segmentation",
+        "type": "article",
+        "volume": "9",
+        "year": "2023"
+    }
+};
